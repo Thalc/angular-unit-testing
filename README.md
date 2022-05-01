@@ -1,2 +1,3 @@
-# angular-unit-testing
-Projeto básico em angular para estudar testes unitários, isolados e integrados
+# Curso feito na Plural Sight
+npm install
+npm test
